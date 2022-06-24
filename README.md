@@ -33,7 +33,7 @@
 </tr>
  
  <tr>
- <a href="https://github.com/sefatanam">
+ <a href="https://github.com/samsil2">
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=samsil2&theme=react-dark&hide_title=true&hide_border=true&area=true" />
   </a>
  </tr>
