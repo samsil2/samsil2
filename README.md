@@ -5,7 +5,7 @@
 
 ![views](https://komarev.com/ghpvc/?username=samsil2&label=Profile%20views&color=0e75b6&style=flat)
 ![focus](https://img.shields.io/badge/focus-BackendDeveloper-critical)
-![living](https://img.shields.io/badge/living-Dhaka-3c9)
+![living](https://img.shields.io/badge/living-Frankfurt-3c9)
 
 - 🔭 Currently, I’m doing Masters in IT at Frankfurt University of Applied Sciences.
 - 🌱 I’m currently learning reactjs, Data Analysis.
