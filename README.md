@@ -1,4 +1,4 @@
-![](https://external-preview.redd.it/gfsRbpApx9UumOx4tLGtKrQLJlqZecSmfme-8baaAVs.jpg?width=640&crop=smart&auto=webp&s=0e2c644dae90cce42bbd0fff0a295c4219930300)
+
 <h1 align="left"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> This is Samsil Arefin</h1>
 
 ### Bio 
@@ -32,10 +32,6 @@
  <td><img align="center" src="https://github-stats-alpha.vercel.app/api/?username=samsil2&tc=333&ic=333" alt="samsil2"/></td>
 </tr>
  
- <tr>
- <a href="https://github.com/samsil2">
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=samsil2&theme=react-dark&hide_title=true&hide_border=true&area=true" />
-  </a>
- </tr>
+
 
 </table>
